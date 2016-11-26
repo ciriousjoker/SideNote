@@ -52,7 +52,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Icons\AppIconOld.ico</ApplicationIcon>
+    <ApplicationIcon>Icons\AppIcon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Dragablz, Version=0.0.3.178, Culture=neutral, processorArchitecture=MSIL">
